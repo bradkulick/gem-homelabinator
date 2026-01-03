@@ -3,5 +3,6 @@
   "version": "0.1.1",
   "description": "The Homlabinator: Senior Infrastructure Cyberdyne Model. Architect, deploy, and maintain your homelab, Terminator style.",
   "author": "Bradford Kulick",
+  "generator": "gemonade-sys",
   "python_dependencies": "requirements.txt"
 }
