@@ -1,6 +1,6 @@
 {
   "name": "homelabinator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The Homlabinator: Senior Infrastructure Cyberdyne Model. Architect, deploy, and maintain your homelab, Terminator style.",
   "author": "Bradford Kulick",
   "python_dependencies": "requirements.txt"
